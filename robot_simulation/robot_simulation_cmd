@@ -1,3 +1,0 @@
-roslaunch robot_simulation toshiba_robot.launch gui:=true
-
-
